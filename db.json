@@ -66,6 +66,15 @@
         }
         
     
+      ],
+      "quiz":[
+        {
+          "id":1,
+          "user":"anwar",
+          "score":4,
+          "question":10,
+          "category":"entrainment"
+        }
       ]
     
 }
